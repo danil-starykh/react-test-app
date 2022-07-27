@@ -1,0 +1,19 @@
+.pagination {
+	margin: 4px 0 20px 0;
+}
+
+.pagination__item {
+	padding: 5px 15px;
+      color: #0d99ea;
+      font-size: 14px;
+      background: transparent;
+      border: 2px solid #0d99ea;
+      border-radius: 10px;
+      cursor: pointer;
+}
+
+.pagination__item.active {
+	border: 3px solid white;
+      color: white;
+	font-weight: bold;
+}

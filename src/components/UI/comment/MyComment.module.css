@@ -1,0 +1,25 @@
+.comment {
+      padding: 10px 15px;
+      font-size: 14px;
+      background: transparent;
+      border: 2px solid #0d99ea;
+      border-radius: 10px;
+      margin-bottom: 16px;
+      display: flex;
+      flex-direction: column;
+}
+
+.comment__name {
+      color: #0d99ea;
+      font-size: 18px;
+      padding-bottom: 8px;
+}
+
+.comment__content {
+      font-size: 16px;
+}
+
+.comment__email {
+      font-size: 14px;
+      color: white;
+}

@@ -1,0 +1,16 @@
+.error_page__container {
+      margin-top: 30px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+}
+
+.error_page__error-number {
+      font-size: 110px;
+}
+
+.error_page__error-desc {
+      font-size: 40px;
+      color: #0d99ea;
+      margin-bottom: 10px;
+}
